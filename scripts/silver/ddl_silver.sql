@@ -42,6 +42,7 @@ GO
 
 create table silver.crm_prd_info(
     prd_id			INT,
+    cat_id			NVARCHAR(50),
     prd_key			NVARCHAR(50),
     prd_nm			NVARCHAR(50), 
     prd_cost		INT,
