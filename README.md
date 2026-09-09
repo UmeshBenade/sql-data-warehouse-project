@@ -18,7 +18,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 ---
 
 ## 🚀 Project Requirements
----
+
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
